@@ -2,7 +2,7 @@
 
 A Python-based utility that interfaces with the GitHub REST API to fetch and display real-time user statistics, repository counts, and language distribution.
 
----
+
 
 ## Features
 
@@ -10,7 +10,7 @@ A Python-based utility that interfaces with the GitHub REST API to fetch and dis
 * **Tech Stack Analysis:** Automatically scans all public repositories to identify and count the primary programming languages used.
 * **API Integration:** Powered by `PyGithub` for reliable data fetching.
 
----
+
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Before running the script, ensure you have the following:
     ```
 3.  **GitHub Personal Access Token**: Generate a token with `read:user` permissions from your [GitHub Settings](https://github.com/settings/tokens).
 
----
+
 
 ## Usage
 
@@ -43,7 +43,7 @@ Before running the script, ensure you have the following:
 
 4.  **Input:** Enter any GitHub username when prompted to see their stats.
 
----
+
 
 ## Example Output
 
